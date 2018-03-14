@@ -1,4 +1,4 @@
-module.exports = function fileUpload ({
+exports.default = function fileUpload ({
   file,
   endpoint,
   onProgress,

@@ -6,12 +6,9 @@ export default {
   input: 'src/index.js',
   output: {
     file: 'dist/index.js',
-    format: 'cjs'
+    format: 'es'
   },
-  external: [
-    'react',
-    'prop-types'
-  ],
+  external: [],
   plugins: [
     resolve(),
     babel({

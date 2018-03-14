@@ -1,6 +1,6 @@
 {
   "name": "ajax-file-upload",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "simple func to upload file from the client side [ajax]",
   "main": "dist/index.js",
   "author": "George <7jagjag@gmail.com>",
